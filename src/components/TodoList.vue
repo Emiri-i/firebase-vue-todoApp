@@ -2,9 +2,9 @@
   <b-container>
     <b-row class="mt-2">
       <b-col cols="8">
-        <h5 class="text-align: left;">テキスト</h5>
+        <h5 style="text-align: left;">テキスト</h5>
       </b-col>
-      <b-col cols="4" class="text-right">
+      <b-col cols="4" style="text-align: right;">
         <b-button>完了</b-button>
         <b-button>削除</b-button>
       </b-col>
